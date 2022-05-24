@@ -1,0 +1,17 @@
+Para aprender este lenguaje ponemos ayudarnos de materiales externas al curso, como libros y tutoriales. Todo esto es solo Recomendación.
+
+Documentación de Desarrolladores de Mozilla
+
+HTML: https://developer.mozilla.org/es/docs/Web/HTML
+
+CSS: https://developer.mozilla.org/es/docs/Web/CSS
+
+JavaScript: https://developer.mozilla.org/es/docs/Web/JavaScript
+
+Tutorail de W3schools:
+
+HTML: https://www.w3schools.com/html/
+
+CSS: https://www.w3schools.com/css/
+
+JavaScript: https://www.w3schools.com/js/
